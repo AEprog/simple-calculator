@@ -1,0 +1,10 @@
+C:\Users\blues\source\repos\363_Lab\363_Calculator\bin\Debug\363_Calculator.exe.config
+C:\Users\blues\source\repos\363_Lab\363_Calculator\bin\Debug\363_Calculator.exe
+C:\Users\blues\source\repos\363_Lab\363_Calculator\bin\Debug\363_Calculator.pdb
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\363_Calculator.csprojAssemblyReference.cache
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\_363_Calculator.calc.resources
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\_363_Calculator.Properties.Resources.resources
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\363_Calculator.csproj.GenerateResource.cache
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\363_Calculator.exe
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\363_Calculator.pdb
+C:\Users\blues\source\repos\363_Lab\363_Calculator\obj\Debug\363_Calculator.csproj.CoreCompileInputs.cache
